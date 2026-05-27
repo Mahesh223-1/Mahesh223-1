@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahesh223-1
 - 👀 I’m interested in ... Cybersecurity 
-- 🌱 I’m currently learning ... CompTia Security +
+- 🌱 I had ... CompTia Security +
 - 💞️ I’m looking to Full Time Roles on ... Cybersecurity analyst
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...
